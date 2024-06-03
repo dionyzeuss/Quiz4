@@ -1,0 +1,33 @@
+[{
+  "0": {
+    "patient_name": "Dexter Manansala",
+    "age": 21,
+    "gender": "Male",
+    "bloodType": "O+"
+  },
+  "_id": {
+    "$oid": "662f1f09413647ce8346b79d"
+  }
+},
+{
+  "0": {
+    "patient_name": "Mark Zeckerberg",
+    "age": 25,
+    "gender": "Male",
+    "bloodType": "B"
+  },
+  "_id": {
+    "$oid": "662f1f4c413647ce8346b79e"
+  }
+},
+{
+  "0": {
+    "patient_name": "Gio Hernandez",
+    "age": 56,
+    "gender": "Female",
+    "bloodType": "O-"
+  },
+  "_id": {
+    "$oid": "662f1f81413647ce8346b79f"
+  }
+}]
