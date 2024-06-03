@@ -1,0 +1,27 @@
+{
+    "HospitalManagement": {
+      "Admissions": {
+        "GET All Admissions": {
+          "method": "GET",
+          "url": "/admissions"
+        },
+        "GET Admission by ID": {
+          "method": "GET",
+          "url": "/admissions/:id"
+        },
+        "Post Create Admission": {
+          "method": "POST",
+          "url": "/admissions"
+        },
+        "PUT Update Admission": {
+          "method": "PUT",
+          "url": "/admissions/:id"
+        },
+        "DEL delete Admission": {
+          "method": "DELETE",
+          "url": "/admissions/:id"
+        }
+      }
+    }
+  }
+  

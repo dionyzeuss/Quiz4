@@ -1,0 +1,27 @@
+{
+    "HospitalManagement": {
+      "Patients": {
+        "GET patient by ID": {
+          "method": "GET",
+          "url": "/patients/:id"
+        },
+        "POST create patient": {
+          "method": "POST",
+          "url": "/patients"
+        },
+        "GET All patients": {
+          "method": "GET",
+          "url": "/patients"
+        },
+        "DEL Delete patients by ID": {
+          "method": "DELETE",
+          "url": "/patients/:id"
+        },
+        "PUT Update Patient": {
+          "method": "PUT",
+          "url": "/patients/:id"
+        }
+      }
+    }
+  }
+  
