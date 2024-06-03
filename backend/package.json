@@ -1,10 +1,10 @@
 {
   "name": "hospitalmanagement",
   "version": "1.0.0",
-  "description": "hospital management api ",
+  "description": "hospital management api",
   "main": "index.js",
   "scripts": {
-    "devstart": "nodemon index.js"
+    "devstart": "nodemon backend/index.js"
   },
   "author": "IT 2A",
   "license": "ISC",
