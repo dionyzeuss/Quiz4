@@ -1,4 +1,4 @@
-// backend/controllers/doctorController.js
+
 const Doctor = require('../models/doctorSchema');
 
 module.exports = {
